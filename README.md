@@ -2,4 +2,4 @@
 
 Visit this link to watch the hosted page
 
-[click here](https://prasanthgrandhe.github.io/myportfolio/)
+[click here](https://prasanthgrandhe.github.io/myportfolio/){:target="_blank"}
